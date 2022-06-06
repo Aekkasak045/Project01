@@ -8,3 +8,5 @@ w = float(input("w : "))
 area = area(b,w)
 
 print (area)
+
+1
